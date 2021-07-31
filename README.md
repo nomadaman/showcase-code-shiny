@@ -13,15 +13,15 @@ This repo covers the showcasing of a shiny project with google trends library wi
 
 Libraries:
 #Loading the libraries
-library("shiny")
-library("plotly")
-library("shinymaterial")
-library("wordcloud2")
-library("dplyr")
-library("tidyr")
-library("tidytext")
-library("igraph")
-library("ggraph")
+- library("shiny")
+- library("plotly")
+- library("shinymaterial")
+- library("wordcloud2")
+- library("dplyr")
+- library("tidyr")
+- library("tidytext")
+- library("igraph")
+- library("ggraph")
 
 
 
