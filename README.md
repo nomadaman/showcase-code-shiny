@@ -14,6 +14,8 @@ This repo covers the showcasing of a shiny project with google trends library wi
 
 Note: Dashboards add value to the data and gives more understanding to the end user using it.
 
+![Screen Shot 2021-08-01 at 2 02 36 am](https://user-images.githubusercontent.com/59494433/127745677-87ab70d0-eb51-4e3f-bc32-cb0fc9ce2d9d.png)
+
 
 ![Screen Shot 2021-08-01 at 2 00 19 am](https://user-images.githubusercontent.com/59494433/127745635-d3328795-5fa8-43f4-b146-155576c32c4d.png)
 
@@ -21,4 +23,3 @@ Note: Dashboards add value to the data and gives more understanding to the end u
 ![Screen Shot 2021-08-01 at 2 00 12 am](https://user-images.githubusercontent.com/59494433/127745638-97a8a68e-b16f-4d8f-8744-6875d68f1335.png)
 
 
-![Screen Shot 2021-08-01 at 2 02 36 am](https://user-images.githubusercontent.com/59494433/127745677-87ab70d0-eb51-4e3f-bc32-cb0fc9ce2d9d.png)
