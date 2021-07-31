@@ -11,6 +11,19 @@ This repo covers the showcasing of a shiny project with google trends library wi
 - Once the working directory has been set, app can be accessed by running it using green play button in the Rstudio.
 - Otherwise if just need to check the functionality then this url can be used as it has been published already using shinyio.
 
+Libraries:
+#Loading the libraries
+library("shiny")
+library("plotly")
+library("shinymaterial")
+library("wordcloud2")
+library("dplyr")
+library("tidyr")
+library("tidytext")
+library("igraph")
+library("ggraph")
+
+
 
 Note: Dashboards add value to the data and gives more understanding to the end user using it.
 
