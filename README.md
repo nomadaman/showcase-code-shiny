@@ -21,4 +21,4 @@ Note: Dashboards add value to the data and gives more understanding to the end u
 ![Screen Shot 2021-08-01 at 2 00 12 am](https://user-images.githubusercontent.com/59494433/127745638-97a8a68e-b16f-4d8f-8744-6875d68f1335.png)
 
 
-![Screen Shot 2021-08-01 at 1 58 43 am](https://user-images.githubusercontent.com/59494433/127745643-a8030b69-3628-4049-9ec2-d7c7a5f5103f.png)
+![Screen Shot 2021-08-01 at 2 02 36 am](https://user-images.githubusercontent.com/59494433/127745677-87ab70d0-eb51-4e3f-bc32-cb0fc9ce2d9d.png)
