@@ -102,7 +102,7 @@ ui <- material_page(title = "Find Trends using GoogleTrends",
                             "Graph covers the flow or connection of the keyword to some other keywords",
                             br(),
                             br(),
-                            HTML('<p>View the <a href="https://github.com/AntoineSoetewey/word-cloud/blob/master/app.R">code</a></p>'),
+                            HTML('<p>View the <a href="https://github.com/nomadaman/showcase-code-shiny">code</a></p>'),
                             br(),
                             br()
                         )
@@ -113,7 +113,7 @@ ui <- material_page(title = "Find Trends using GoogleTrends",
                         tab_id="example_tab_1",
                         
                         material_column(
-                            width = 7,
+                            width = 9,
                             material_card(
                                 title = "Google Trends",
                                 size="medium",
